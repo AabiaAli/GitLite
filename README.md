@@ -14,7 +14,9 @@ Upon running the program, the user can begin to enter commands to manage version
 
   The trees also have complete insertion and deletion capabilities.
 
-  # Contributers
+# Contributers
   - <a href=https://github.com/AabiaAli>Aabia Ali</a>
   - <a href=https://github.com/insharahn>Insharah Irfan Nazir</a>
   - <a href=https://github.com/ZaraHEREhehe>Zara Noor Qazi</a>
+# License
+Licensed under [MIT](https://choosealicense.com/licenses/mit/), this project is open-source and free to use.
